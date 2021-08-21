@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-app-deploy/static/css/main.1b5b4214.chunk.css",
+    "main.js": "/react-app-deploy/static/js/main.5735f6a0.chunk.js",
+    "main.js.map": "/react-app-deploy/static/js/main.5735f6a0.chunk.js.map",
+    "runtime-main.js": "/react-app-deploy/static/js/runtime-main.47288a2f.js",
+    "runtime-main.js.map": "/react-app-deploy/static/js/runtime-main.47288a2f.js.map",
+    "static/js/2.5d25bd87.chunk.js": "/react-app-deploy/static/js/2.5d25bd87.chunk.js",
+    "static/js/2.5d25bd87.chunk.js.map": "/react-app-deploy/static/js/2.5d25bd87.chunk.js.map",
+    "index.html": "/react-app-deploy/index.html",
+    "static/css/main.1b5b4214.chunk.css.map": "/react-app-deploy/static/css/main.1b5b4214.chunk.css.map",
+    "static/js/2.5d25bd87.chunk.js.LICENSE.txt": "/react-app-deploy/static/js/2.5d25bd87.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-app-deploy/static/media/Bytela_BG.4021fd5a.png",
+    "static/media/Logo.db44e28d.png": "/react-app-deploy/static/media/Logo.db44e28d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47288a2f.js",
+    "static/js/2.5d25bd87.chunk.js",
+    "static/css/main.1b5b4214.chunk.css",
+    "static/js/main.5735f6a0.chunk.js"
+  ]
+}
